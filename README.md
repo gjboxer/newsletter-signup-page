@@ -1,5 +1,5 @@
 # Newsletter-Signup-Page
-Newsletter signup page
+Complete implementation of a newsletter signup page using NodeJS and MAILCHIMP API.
 # IMPORTANT
 <ol>
 <li>First install all the node dependencies like express-js,nodemon-js,request module,bodyparser module</li>
